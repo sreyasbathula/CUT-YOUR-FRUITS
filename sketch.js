@@ -71,15 +71,15 @@ function draw() {
        //score=2;
        score=score+2;
 
-if (score>0 && score % 10===0) {
-  
-}
+       }
+
+
 
 
 
       
 
-    }
+    
     else
     {
       // Go to end state if sword touching enemy
